@@ -1,1 +1,1 @@
-This is a set of practice codes for unsupervised and supervised recommender systems.
+This is a set of practice codes for unsupervised, supervised and reinforcement learning techniques.
